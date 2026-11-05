@@ -26,7 +26,7 @@ This repository provides simulation pipelines and entropy calculation tools for 
   4. **`quimb` Circuits (No AQC):** Quantum circuit dynamics without AQC compression.
   5. **`quimb` Circuits + AQC (t = 1.8):** Circuit dynamics with AQC block at $t = 1.8$.
   6. **`quimb` Circuits + AQC (t = 0.6, 1.4, 1.8):** Circuit dynamics with AQC blocks at $t = 0.6, 1.4, 1.8$.
-* **Classical Shadows:** The last three circuit methods incorporate Classical Shadow reconstruction using $200$ shots per Pauli string generated from the $3^3 = 27$ three-qubit Pauli operators ($X, Y, Z, I$).
+* **Classical Shadows:** The last three circuit methods incorporate Classical Shadow reconstruction using $200$ shots per Pauli string generated from the $3^3 = 27$ three-qubit Pauli operators ($X, Y, Z$).
 
 ---
 
