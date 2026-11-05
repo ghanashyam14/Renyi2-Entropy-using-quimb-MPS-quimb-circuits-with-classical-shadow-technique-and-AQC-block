@@ -1,6 +1,6 @@
 # Quantitative Quantum Physics & Classical Shadow Entropy Calculations
 
-A collection of Jupyter Notebooks for simulating quantum dynamics, compressing Trotterized time-evolution using **Accelerated Quantum Circuit (AQC)** tensor network techniques, generating measurement bitstrings via `quimb` Matrix Product States (MPS) and Qiskit, and estimating subsystem **Rényi-2 Entanglement Entropy** using **Classical Shadows**.
+A collection of Jupyter Notebooks for simulating quantum dynamics, compressing Trotterized time-evolution using ** Approximate Quantum Compiler(AQC)** tensor network techniques, generating measurement bitstrings  via 'quimb_circuit' and estimating subsystem **Rényi-2 Entanglement Entropy** using **Classical Shadows**.
 
 ---
 
